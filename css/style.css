@@ -642,6 +642,7 @@ a.trend-card-title {
 
 .field-email {
   display: inline-block;
+  min-width: 270px;
   height: 50px;
   margin-top: 22px;
   margin-bottom: 17px;
